@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
+import java.util.HashMap;
 
 /**
  * Created  by DHui on 2021/10/17.
@@ -20,10 +21,12 @@ public class DemoAopController {
     @Autowired
     private DemoAopService demoAopService;
 
+
     @GetMapping("/cont")
     @ResponseBody
     public String testController(HttpServletRequest request, HttpServletResponse response){
 
+        HashMap hashMap = new HashMap();
         demoAopService.testAop1();
         return "hello springboot";
         /*try {
