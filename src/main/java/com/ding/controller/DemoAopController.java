@@ -27,6 +27,10 @@ public class DemoAopController {
     public String testController(HttpServletRequest request, HttpServletResponse response){
 
         HashMap hashMap = new HashMap();
+        hashMap.put(11,11);
+
+
+
         demoAopService.testAop1();
         return "hello springboot";
         /*try {

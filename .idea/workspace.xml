@@ -37,7 +37,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.5505747" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -97,6 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1634653062842</updated>
       <workItem from="1634653065766" duration="474000" />
+      <workItem from="1634653672045" duration="526000" />
     </task>
     <servers />
   </component>
@@ -108,10 +109,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1634653424373" />
-    <state width="196" height="367" key="Git.Branch.Popup" timestamp="1634653520879">
+    <state width="198" height="369" key="Git.Branch.Popup" timestamp="1634653701239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="196" height="367" key="Git.Branch.Popup/0.0.1920.1040@0.0.1920.1040" timestamp="1634653520879" />
+    <state width="198" height="369" key="Git.Branch.Popup/0.0.1920.1040@0.0.1920.1040" timestamp="1634653701239" />
     <state width="1877" height="390" key="GridCell.Tab.0.bottom" timestamp="1634653540054">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -160,17 +161,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="390" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1634653540054" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1634653427513">
+    <state x="461" y="164" key="SettingsEditor" timestamp="1634654052706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1634653427513" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1634653510015">
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1634654052706" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1634654184541">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1634653510015" />
-    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1634653436284">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1634654184541" />
+    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1634654074020">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1634653436284" />
+    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1634654074020" />
   </component>
 </project>
