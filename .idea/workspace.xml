@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="373a42e1-8f00-416f-8c52-1398a87e2b54" name="Default Changelist" comment="" />
+    <list default="true" id="373a42e1-8f00-416f-8c52-1398a87e2b54" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +16,8 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../../../../soft/mysoft/apache-maven-3.6.3" />
-        <option name="userSettingsFile" value="D:\soft\mysoft\apache-maven-3.6.3\conf\settings.xml" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../soft/apache-maven-3.6.0/bin" />
+        <option name="userSettingsFile" value="D:\soft\apache-maven-3.6.0\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -33,11 +35,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.5505747" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -105,6 +107,10 @@
       <workItem from="1634653672045" duration="526000" />
       <workItem from="1634702053669" duration="1798000" />
       <workItem from="1634704788717" duration="894000" />
+      <workItem from="1634716834691" duration="475000" />
+      <workItem from="1634717413342" duration="36000" />
+      <workItem from="1634717801953" duration="200000" />
+      <workItem from="1634718246820" duration="19000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1634702153562</created>
@@ -149,10 +155,11 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="513" y="28" key="CommitChangelistDialog2/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1634705004275" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1634653424373">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="778" y="285" key="FileChooserDialogImpl" timestamp="1634717158183">
+      <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1634653424373" />
+    <state x="778" y="285" key="FileChooserDialogImpl/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1634717158183" />
     <state width="198" height="369" key="Git.Branch.Popup" timestamp="1634653701239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -205,20 +212,20 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="390" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1634653540054" />
-    <state x="508" y="170" key="SettingsEditor" timestamp="1634704755214">
+    <state x="508" y="170" key="SettingsEditor" timestamp="1634718265138">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1634654052706" />
-    <state x="508" y="170" key="SettingsEditor/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1634704755214" />
+    <state x="508" y="170" key="SettingsEditor/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1634718265138" />
     <state x="596" y="263" key="Vcs.Push.Dialog.v2" timestamp="1634705007408">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1634654184541" />
     <state x="596" y="263" key="Vcs.Push.Dialog.v2/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1634705007408" />
-    <state x="791" y="450" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1634704862129">
+    <state x="791" y="450" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1634717955213">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1634654074020" />
-    <state x="791" y="450" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1634704862129" />
+    <state x="791" y="450" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1634717955213" />
   </component>
 </project>
