@@ -32,6 +32,7 @@ public class DemoOneController {
 
         System.out.println(8&12);
 
+        HashMap hashMap = new HashMap();
 
 //
 //
