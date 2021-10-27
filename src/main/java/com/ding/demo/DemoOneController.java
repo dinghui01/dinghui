@@ -18,9 +18,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.CopyOnWriteArrayList;
+import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
-
 /**
  * Created  by DHui (Tel:7490) on 2021/7/31.
  */
@@ -30,11 +30,26 @@ public class DemoOneController {
     public static void main(String[] args) throws IOException, InterruptedException {
 
 
+        CountDownLatch countDownLatch = new CountDownLatch(1);
+
+
+
+
+
+
+
+
+
+
+
+
         System.out.println(8&12);
 
         HashMap hashMap = new HashMap();
 
+        ConcurrentHashMap concurrentHashMap  = new ConcurrentHashMap();
 
+        concurrentHashMap.put(11,232);
 
 
 
