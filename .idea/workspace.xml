@@ -65,12 +65,12 @@
       <method />
     </configuration>
     <configuration name="CountDownLatchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ding.demo.JUC.CountDownLatchTest" />
+      <option name="MAIN_CLASS_NAME" value="com.ding.demo.juc.syncUtils.CountDownLatchTest" />
       <module name="springboot-01-helloworld" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ding.demo.JUC.*" />
+          <option name="PATTERN" value="com.ding.demo.juc.syncUtils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,12 @@
       </method>
     </configuration>
     <configuration name="CyclicBarrierDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ding.demo.JUC.CyclicBarrierDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.ding.demo.juc.syncUtils.CyclicBarrierDemo" />
       <module name="springboot-01-helloworld" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ding.demo.JUC.*" />
+          <option name="PATTERN" value="com.ding.demo.juc.syncUtils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

@@ -1,4 +1,4 @@
-package com.ding.demo.JUC;
+package com.ding.demo.juc.syncUtils;
 
 import java.util.concurrent.CyclicBarrier;
 
