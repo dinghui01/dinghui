@@ -4,7 +4,7 @@
 *.iws
 *.iml
 *.ipr
-
+workspace.xml
 # project
 node_modules
 
