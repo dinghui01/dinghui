@@ -1,4 +1,4 @@
-package com.ding.demo;
+package com.ding.demo.JUC;
 
 import java.util.concurrent.CyclicBarrier;
 
@@ -10,6 +10,7 @@ public class CyclicBarrierDemo {
     public static void main(String[] args) {
 
         CyclicBarrier cb = new CyclicBarrier(4);
+
 
     }
 

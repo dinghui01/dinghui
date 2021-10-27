@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="373a42e1-8f00-416f-8c52-1398a87e2b54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ding/demo/CountDownLatchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ding/demo/CyclicBarrierDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ding/demo/DemoOneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ding/demo/DemoOneController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ding/demo/CyclicBarrierDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ding/demo/CyclicBarrierDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +46,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.5505747" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -65,12 +62,12 @@
       <method />
     </configuration>
     <configuration name="CountDownLatchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ding.demo.CountDownLatchTest" />
+      <option name="MAIN_CLASS_NAME" value="com.ding.demo.JUC.CountDownLatchTest" />
       <module name="springboot-01-helloworld" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ding.demo.*" />
+          <option name="PATTERN" value="com.ding.demo.JUC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,7 +139,7 @@
       <workItem from="1634718246820" duration="1274000" />
       <workItem from="1634873442972" duration="3000" />
       <workItem from="1635132273347" duration="662000" />
-      <workItem from="1635311706659" duration="2946000" />
+      <workItem from="1635311706659" duration="3186000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1634702153562</created>
@@ -186,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635132292863</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="测试22">
+      <created>1635332607146</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1635332607146</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,10 +202,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="测试22" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="513" y="28" key="CommitChangelistDialog2" timestamp="1635132291820">
+    <state x="513" y="28" key="CommitChangelistDialog2" timestamp="1635332606368">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="513" y="28" key="CommitChangelistDialog2/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1635132291820" />
+    <state x="513" y="28" key="CommitChangelistDialog2/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1635332606368" />
     <state x="778" y="285" key="FileChooserDialogImpl" timestamp="1634717158183">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
@@ -267,16 +271,16 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="390" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1634653540054" />
-    <state x="508" y="170" key="SettingsEditor" timestamp="1634718265138">
+    <state x="508" y="170" key="SettingsEditor" timestamp="1635332838513">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1634654052706" />
-    <state x="508" y="170" key="SettingsEditor/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1634718265138" />
-    <state x="596" y="263" key="Vcs.Push.Dialog.v2" timestamp="1635132294549">
+    <state x="508" y="170" key="SettingsEditor/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1635332838513" />
+    <state x="596" y="263" key="Vcs.Push.Dialog.v2" timestamp="1635332608635">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1634654184541" />
-    <state x="596" y="263" key="Vcs.Push.Dialog.v2/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1635132294549" />
+    <state x="596" y="263" key="Vcs.Push.Dialog.v2/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1635332608635" />
     <state x="791" y="450" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1635332597070">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>

@@ -1,4 +1,4 @@
-package com.ding.demo;
+package com.ding.demo.JUC;
 
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;
